@@ -1,0 +1,15 @@
+**/target
+
+**/.vite
+
+__pycache__/
+
+**/*.uf2
+
+**/*.pyd
+**/*.pdb
+
+**/_autosave*.kicad_*
+
+# Vale style packages (downloaded by `vale sync`)
+.github/styles/
